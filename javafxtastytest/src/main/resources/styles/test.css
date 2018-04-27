@@ -1,0 +1,19 @@
+.btn{
+	-fx-background-color:  rgba(0.0,0.0,0.0,0.1);
+}
+
+.sidebarbtn{
+	-fx-background-color: rgba(0.0,0.0,0.0,0.7);
+	-fx-background-radius: 25.0;
+	-fx-border-radius: 20.0;
+	-fx-padding: 5.0px;
+}
+
+.sidebarbtn:hover{
+	-fx-cursor: hand;
+}
+
+.btn:hover{
+	-fx-background-color:  rgba(0.0,0.0,0.0,0.6);
+	-fx-cursor: hand ;
+}
